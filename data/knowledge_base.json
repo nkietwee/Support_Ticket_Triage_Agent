@@ -1,0 +1,37 @@
+[
+  {
+    "id": "KB001",
+    "title": "Multiple Pending Card Charges",
+    "keywords": [
+      "payment",
+      "pending",
+      "charge",
+      "billing"
+    ],
+    "content": "Multiple payment attempts may create temporary pending authorizations. Billing support should review repeated charges before advising the customer."
+  },
+
+  {
+    "id": "KB002",
+    "title": "Error 500 Troubleshooting",
+    "keywords": [
+      "500",
+      "server",
+      "login",
+      "outage"
+    ],
+    "content": "HTTP 500 errors affecting multiple users may indicate a service-side or regional issue. Enterprise-wide incidents should be escalated."
+  },
+
+  {
+    "id": "KB003",
+    "title": "Dark Mode Settings",
+    "keywords": [
+      "dark",
+      "mode",
+      "appearance",
+      "theme"
+    ],
+    "content": "Theme settings are available under Settings > Appearance. System Default follows the operating system theme when supported."
+  }
+]

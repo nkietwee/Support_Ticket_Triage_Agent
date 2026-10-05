@@ -1,0 +1,25 @@
+
+{
+  "customer_001": {
+    "plan": "Free",
+    "months_as_customer": 4,
+    "previous_tickets": 0,
+    "region": "Unknown"
+  },
+
+  "customer_002": {
+    "plan": "Enterprise",
+    "months_as_customer": 8,
+    "previous_tickets": 0,
+    "region": "Thailand",
+    "seats": 45
+  },
+
+  "customer_003": {
+    "plan": "Pro",
+    "months_as_customer": 5,
+    "previous_tickets": 0,
+    "region": "Unknown",
+    "activity": "daily"
+  }
+}
